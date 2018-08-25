@@ -2,6 +2,7 @@
 A long-term toy project of making a browser in Haskell
 
 ## Process
+- TODO
 
 ## Research
 - [ ] Go through tutorial in Rust on [browser engine](https://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html)
