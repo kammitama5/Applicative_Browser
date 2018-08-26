@@ -7,12 +7,12 @@ A long-term project of making a toy browser in Haskell
 
 ## Process
 - TODO
-- [ ] - diagramming (system, functional, design?)
+- [ ] diagramming (system, functional, design?)
 
 ## Research
 - [ ] Go through tutorial in Rust on [browser engine](https://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html)
 - [ ] Read through process of big steps (Layout engine, grammar file, CSS parser, HTML parser, chrome, rendering engine)
-- [ ] Break big steps into smaller steps
+- [ ] Break big steps into smaller steps (eg. only parse head of HTML, no divs)
 - [ ] Look at w3m and lynx
 - [ ] Command Line browser? 
 - [ ] Text box and parsing text
