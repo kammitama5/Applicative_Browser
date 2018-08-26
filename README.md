@@ -17,6 +17,8 @@ A long-term project of making a toy browser in Haskell
 - [ ] Command Line browser? 
 - [ ] Text box and parsing text
 - [ ] Look at network libraries in Haskell
+- [ ] Error Handling (eg Maybe Haskell, what to expect)
+- [ ] Optimization (what tools are usually used? Standardized?)
 
 ## Resources
 Here is a list of resources I've found along the way
