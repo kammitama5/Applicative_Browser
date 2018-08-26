@@ -7,6 +7,8 @@ A long-term project of making a toy browser in Haskell
 
 ## Process
 - TODO
+- [ ] try to read through code of a few browsers
+- [ ] try to compile a browser (you may need a better machine eg Chrome)
 - [ ] diagramming (system, functional, design?)
 
 ## Research
