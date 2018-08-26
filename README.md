@@ -7,6 +7,7 @@ A long-term project of making a toy browser in Haskell
 
 ## Process
 - TODO
+- [ ] - diagramming (system, functional, design?)
 
 ## Research
 - [ ] Go through tutorial in Rust on [browser engine](https://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html)
