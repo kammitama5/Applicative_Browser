@@ -16,3 +16,11 @@ A long-term project of making a toy browser in Haskell
 - [ ] Command Line browser? 
 - [ ] Text box and parsing text
 - [ ] Look at network libraries in Haskell
+
+## Resources
+Here is a list of resources I've found along the way
+- [How Browsers work](http://taligarsiel.com/Projects/howbrowserswork1.htm) - Tali Garsiel
+- [Let's Build a Browser Engine](https://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html) - Matt Brubeck
+- [How Browsers Work](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/) - Paul Irish and Tali Garsiel
+
+
