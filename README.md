@@ -1,6 +1,10 @@
 # Applicative_Browser
 A long-term project of making a toy browser in Haskell
 
+## Goals
+- [ ] 1st goal: Have a good sense of how to begin with concrete tasks
+- [ ] 2nd goal: Update process to reflect concrete goal
+
 ## Process
 - TODO
 
