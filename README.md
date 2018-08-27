@@ -27,5 +27,7 @@ Here is a list of resources I've found along the way
 - [How Browsers work](http://taligarsiel.com/Projects/howbrowserswork1.htm) - Tali Garsiel
 - [Let's Build a Browser Engine](https://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html) - Matt Brubeck
 - [How Browsers Work](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/) - Paul Irish and Tali Garsiel
+- [The WebKit Browser Engine An Overview:Linux.conf.au 2013 ](https://www.youtube.com/watch?v=YmbvpkjHDjU) - The WebKit Browser Engine: An Overview
+- [Intro to Rust (Building a Browser Engine : Commands and Rendering in OpenGL](https://www.youtube.com/watch?v=rszgtm7i0n8) - Intro to Rust : Building a Browser Engine
 
 
