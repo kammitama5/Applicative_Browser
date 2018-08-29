@@ -30,4 +30,9 @@ Here is a list of resources I've found along the way
 - [The WebKit Browser Engine Linux.conf.au 2013 ](https://www.youtube.com/watch?v=YmbvpkjHDjU) - The WebKit Browser Engine
 - [Intro to Rust (Building a Browser Engine)](https://www.youtube.com/watch?v=rszgtm7i0n8) - Building a Browser Engine
 
+## Haskell Libraries
+- [ ] [HTTP](http://hackage.haskell.org/package/HTTP)
+- [ ] [wreq*](http://hackage.haskell.org/package/wreq)
 
+
+```* has tutorial```
