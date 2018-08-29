@@ -1,5 +1,5 @@
 # Applicative_Browser
-A long-term project of making a toy browser in Haskell
+A long-term project of making a toy browser in Haskell. It will be minimal and render text (8/29/18).
 
 ## Goals
 - [ ] 1st goal: Have a good sense of how to begin with concrete tasks
