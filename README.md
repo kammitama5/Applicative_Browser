@@ -29,10 +29,11 @@ Here is a list of resources I've found along the way
 - [How Browsers Work](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/) - Paul Irish and Tali Garsiel
 - [The WebKit Browser Engine Linux.conf.au 2013 ](https://www.youtube.com/watch?v=YmbvpkjHDjU) - The WebKit Browser Engine
 - [Intro to Rust (Building a Browser Engine)](https://www.youtube.com/watch?v=rszgtm7i0n8) - Building a Browser Engine
+- [Scraping websites with Haskell](https://taylor.fausak.me/2015/05/21/scraping-websites-with-haskell/)
 
 ## Haskell Libraries
 - [ ] [HTTP](http://hackage.haskell.org/package/HTTP)
 - [ ] [wreq*](http://hackage.haskell.org/package/wreq)
-
+- [ ] [Http-conduit](http://hackage.haskell.org/package/http-conduit)
 
 ```* has tutorial```
