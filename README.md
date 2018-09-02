@@ -21,6 +21,7 @@ A long-term project of making a toy browser in Haskell. It will be minimal and r
 - [ ] Look at network libraries in Haskell
 - [ ] Error Handling (eg Maybe Haskell, what to expect)
 - [ ] Optimization (what tools are usually used? Standardized?)
+- [ ] Would you like to make your own parser or use a library?
 
 ## Resources
 Here is a list of resources I've found along the way
