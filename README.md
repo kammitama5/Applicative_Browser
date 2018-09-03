@@ -36,5 +36,6 @@ Here is a list of resources I've found along the way
 - [ ] [HTTP](http://hackage.haskell.org/package/HTTP)
 - [ ] [wreq*](http://hackage.haskell.org/package/wreq)
 - [ ] [Http-conduit](http://hackage.haskell.org/package/http-conduit)
+- [ ] [Json Parser (build one)](https://github.com/data61/fp-course) - courtesy Data61 team
 
 ```* has tutorial```
